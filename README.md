@@ -38,7 +38,7 @@ An intelligent assistive text correction tool designed to improve readability fo
 
 ### 🩸 Blood Bank Management System
 A full-stack web application designed to streamline the management of blood donors, recipients, and real-time blood inventory tracking.
-- **Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
+- **Tech Stack:** Java •SQL MySQL •PostgreSQL • HTML • CSS • JavaScript 
 
 ---
 
@@ -59,7 +59,7 @@ A full-stack web application designed to streamline the management of blood dono
 
 ## 🌐 Let's Connect!
 📧 **Email:** [shravyasaliyan44@gmail.com](mailto:shravyasaliyan44@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/shravya-d-s](https://www.linkedin.com/in/YOUR-LINKEDIN) *(Replace with your actual LinkedIn username)*  
+💼 **LinkedIn:** [linkedin.com/in/shravya-ds](https://www.linkedin.com/in/YOUR-LINKEDIN) 
 🐙 **GitHub:** [github.com/ShravyaDS](https://github.com/ShravyaDS)  
 
 ⚡ *Thank you for visiting my profile! I am always eager to collaborate on open-source projects or discuss backend engineering.*
