@@ -1,225 +1,65 @@
 # Hi there, I'm Shravya D S 👋
 
-🎓 Information Science Engineering Graduate  
-💻 Java Backend Developer | SQL | JDBC | Hibernate | Spring Boot  
-🚀 Passionate about building scalable backend applications and continuously learning modern technologies.
+### 🎓 Information Science Engineering Graduate & Aspiring Java Backend Developer
+🚀 Passionate about architecting scalable backend systems, writing clean code, and solving complex real-world problems. 
 
 ---
 
-# 👩‍💻 About Me
-
-- 🎓 B.E. in Information Science & Engineering
-- 💻 Skilled in Java Backend Development
-- 🗄️ Strong understanding of SQL, JDBC, Hibernate, and MySQL
-- 🌱 Currently learning Spring Boot, REST APIs, and Backend Development
-- 🧩 Enjoy solving coding problems and building real-world projects
-- 🎯 Aspiring Software Engineer seeking opportunities to contribute and grow
+## 👩‍💻 About Me
+- 🎓 **Education:** B.E. in Information Science & Engineering
+- 💻 **Core Focus:** Strong foundation in Java Backend Development, relational databases, and enterprise frameworks.
+- 🎯 **Career Goal:** Actively seeking opportunities as a **Software Engineer** or **Java Backend Developer** where I can contribute to impactful software projects.
+- 🌱 **Continuous Learning:** Expanding my expertise into modern cloud-native ecosystems, microservices, and system architecture.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- SQL
-- Python
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-- JDBC
-- Hibernate (JPA)
-- Spring Boot
-- REST APIs (Learning)
-
-### Database
-- MySQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- Eclipse IDE
-- VS Code
-- Maven
-- Postman
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, SQL, Python, JavaScript, HTML5, CSS3 |
+| **Backend & Frameworks** | JDBC, Hibernate (JPA), Spring Boot *(Learning)*, REST APIs *(Learning)* |
+| **Databases** | MySQL |
+| **Tools & Platforms** | Git, GitHub, Maven, Postman, Eclipse IDE, VS Code, Netlify |
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-## 🔐 VaultNote
-A secure note management application built using Java, JDBC, and MySQL.
+### 🔐 VaultNote
+A secure note management system engineered with a structured backend architecture. It features full CRUD capabilities, allowing users to safely store, retrieve, update, and delete personal notes.
+- **Tech Stack:** Java • JDBC • MySQL
+- 🔗 [GitHub Repository](https://github.com/ShravyaDS/VaultNote)
 
-**Tech Stack**
-- Java
-- JDBC
-- MySQL
+### 🧠 LexiMind – AI-Based Dyslexia Text Correction
+An intelligent assistive text correction tool designed to improve readability for users with dyslexia. The system leverages Optical Character Recognition (OCR) to extract text from images and Natural Language Processing (NLP) deep learning models to rectify errors.
+- **Tech Stack:** Python • OpenCV • TrOCR • NLP • Machine Learning
+- 🔗 [GitHub Repository](https://github.com/ShravyaDS/LexiMind)
 
-🔗 https://github.com/ShravyaDS/VaultNote
-
----
-
-## 🛒 Retail Chatbot
-An AI-powered chatbot that assists customers with shopping-related queries.
-
-**Tech Stack**
-- Python
-- NLP
-
-🔗 https://github.com/ShravyaDS/Retail-Chatbot
+### 🩸 Blood Bank Management System
+A full-stack web application designed to streamline the management of blood donors, recipients, and real-time blood inventory tracking.
+- **Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
 
 ---
 
-## 🩸 Blood Bank Management System
-A web-based application for managing blood donors, recipients, and blood inventory.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-- Java
-- MySQL
-
-🔗 https://github.com/ShravyaDS/BloodBank
-# Hi there, I'm Shravya D S 👋
-
-🎓 Information Science Engineering Graduate
-💻 Java Backend Developer | SQL | JDBC | Hibernate | Spring Boot (Learning)
-🚀 Passionate about building backend applications, solving real-world problems, and continuously improving my software development skills.
+## 🌱 Currently Mastering
+- 🚀 **Spring Framework:** Deep diving into Spring Boot and RESTful microservices.
+- 🧩 **Computer Science Fundamentals:** Data Structures & Algorithms (DSA) and foundational System Design concepts.
 
 ---
 
-# 👩‍💻 About Me
-
-* 🎓 B.E. in Information Science & Engineering
-* 💻 Strong foundation in Java Backend Development
-* 🗄️ Experienced with SQL, JDBC, Hibernate (JPA), and MySQL
-* 🌱 Currently learning Spring Boot, REST APIs, and Backend Development
-* 🧩 Passionate about problem-solving, clean code, and software design
-* 🎯 Seeking Software Engineer and Java Developer opportunities
+## 📊 GitHub Analytics
+<!-- You can uncomment the lines below if you want to use popular GitHub readme stats widgets -->
+<!-- 
+![Shravya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravyaDS&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaDS&layout=compact&theme=radial)
+-->
 
 ---
 
-# 🛠️ Tech Stack
+## 🌐 Let's Connect!
+📧 **Email:** [shravyasaliyan44@gmail.com](mailto:shravyasaliyan44@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/shravya-d-s](https://www.linkedin.com/in/YOUR-LINKEDIN) *(Replace with your actual LinkedIn username)*  
+🐙 **GitHub:** [github.com/ShravyaDS](https://github.com/ShravyaDS)  
 
-### Languages
-
-* Java
-* SQL
-* Python
-* HTML
-* CSS
-* JavaScript
-
-### Backend
-
-* JDBC
-* Hibernate (JPA)
-* Spring Boot (Learning)
-* REST APIs (Learning)
-
-### Database
-
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* Maven
-* Eclipse IDE
-* VS Code
-* Postman
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 VaultNote
-
-A secure note management system developed using Java, JDBC, and MySQL. It enables users to securely store, manage, update, and delete personal notes with a structured backend architecture.
-
-**Tech Stack:** Java • JDBC • MySQL
-
-🔗 https://github.com/ShravyaDS/VaultNote
-
----
-
-## 🧠 LexiMind – AI-Based Dyslexia Text Correction
-
-An intelligent text correction system designed to assist users with dyslexia. The application leverages OCR and NLP techniques to recognize text from images and improve readability using deep learning models.
-
-**Tech Stack:** Python • OpenCV • TroCR • NLP • Machine Learning
-
----
-
-## 🩸 Blood Bank Management System
-
-A web-based application for managing blood donors, recipients, and blood inventory efficiently.
-
-**Tech Stack:** HTML • CSS • JavaScript • Java • MySQL
-
----
-
-# 📚 Currently Learning
-
-* Spring Boot
-* REST APIs
-* Microservices Fundamentals
-* Data Structures & Algorithms
-* System Design Basics
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravyaDS\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaDS\&layout=compact\&theme=tokyonight)
-
----
-
-# 🌐 Connect with Me
-
-📧 **Email:** [shravyasaliyan44@gmail.com](mailto:shravyasaliyan44@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
-
-🐙 **GitHub:** https://github.com/ShravyaDS
-
----
-
-⭐ Thanks for visiting my profile! I'm always eager to learn, collaborate, and contribute to impactful software projects.
-
----
-
-# 📚 Currently Learning
-
-- Spring Boot
-- REST APIs
-- Microservices Basics
-- Data Structures & Algorithms
-- System Design Fundamentals
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravyaDS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaDS&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect with Me
-
-📧 **Email:** shravyasaliyan44@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
-
-🐙 **GitHub:** https://github.com/ShravyaDS
-
----
-
-⭐ Feel free to explore my repositories and connect with me. I'm always excited to learn, collaborate, and build impactful software.
+⚡ *Thank you for visiting my profile! I am always eager to collaborate on open-source projects or discuss backend engineering.*
